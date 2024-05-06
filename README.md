@@ -16,7 +16,7 @@ To use the logo generator:
 
 ## Demo
 
-[Watch Demo Video](https://drive.google.com/file/d/1wxuASqd1MsQtGpwPeBQBUo5aqNiqbG8D/view?usp=drive_link)
+[Watch Demo Video](https://drive.google.com/file/d/1XAiJcekOV3ZnB7A7sQ8E4chEffOcHywA/view?usp=drive_link)
 
 ## Folder Structure
 
