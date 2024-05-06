@@ -26,7 +26,8 @@ project-root/
 ├── lib/                
     ├── shapes.js       
     ├── shapes.test.js  
-    └── more...         
+    ├── logoGenerator.js  
+    └── userInput.js         
 ├── .gitignore          
 ├── index.js            
 ├── package.json
